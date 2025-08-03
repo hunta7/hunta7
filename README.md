@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Anthony 👾
+## I'm currently on a Cybersec Journey 🛡️🕵🏿‍♂
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/hunta7.png)
 
 <!--
 **hunta7/hunta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
