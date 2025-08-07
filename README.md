@@ -2,7 +2,6 @@
 ## I'm currently on a Cybersec Journey 🛡️ 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/hunta7.png)
 #
-[![YouHackMe Metasploit Badge](https://youhackme.com/badges/metasploit/hunta7.png)](https://youhackme.com/users/hunta7)
 
 <!--
 **hunta7/hunta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
