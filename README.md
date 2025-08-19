@@ -2,7 +2,8 @@
 ## I'm currently on a Cybersec Journey 🛡️ 
 ![TryHackMe Badge](https://i.ibb.co/bMj2Tvpk/hunta7.png)
 ## knowledge-IN 
-![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=python&logoSize=auto) ![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=html5&logoSize=auto)
+
 
 
 
