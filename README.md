@@ -1,6 +1,6 @@
  ## Hi there, I'm Anthony 👾
 ## I'm currently on a Cybersec Journey 🛡️ 
-![TryHackMe Badge](https://i.ibb.co/krkQ02M/hunta7.png)
+![TryHackMe Badge](https://i.ibb.co/2LmgP35/hunta7.png)
 
 <br>https://tryhackme.com/p/hunta7
 ## knowledge-IN 
